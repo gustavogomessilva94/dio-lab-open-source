@@ -1,0 +1,14 @@
+# gustavogomessilva94
+
+## *Sobre mim:*
+
+Eu sou o Gustavo, sou formado em Comércio Exterior com MBA em Logística e Post-MBA em Liderança, pretendo migrar para a carreira de Análise de Dados e, em um futuro próximo, de Cientista de Dados.
+
+Me desejem sorte porque eu sei que vou precisar hehe
+
+Abraços
+
+
+## *Conecte-se comigo:*
+
+#### [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gustavo-s-8a77b26b/)
